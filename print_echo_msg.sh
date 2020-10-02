@@ -1,0 +1,1 @@
+echo "Thank you bogdan stashchuk for providing : Complete guidance on git and Github"
